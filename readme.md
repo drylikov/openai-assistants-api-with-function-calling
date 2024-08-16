@@ -11,7 +11,7 @@ Just a demo of OpenAI's Assistants API with function calling, currently it check
 Clone this repository
 
 ```
-git clone https://github.com/ozgrozer/openai-assistants-api-with-function-calling.git
+git clone https://github.com/drylikov/openai-assistants-api-with-function-calling.git
 ```
 
 Install dependencies
